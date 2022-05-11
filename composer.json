@@ -1,0 +1,10 @@
+{
+    "require": {
+        "symfony/skeleton": "^6.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "symfony/flex": true
+        }
+    }
+}
