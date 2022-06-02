@@ -12,11 +12,13 @@ Symfony-MAMP is a set of docker images that include Starter-Kit for a MAMP stack
 
 ## Installation
 
-```shell
+```
+shell
 git clone Symfony-MAMP
 cd Symfony-MAMP
 cp .env.example .env && cp .env.example .env
 docker-compose up --build
+
 ```
 
 - Symfony 6 will run on [http://localhost:8007](http://localhost:8007)
